@@ -4,4 +4,4 @@ This is the official readme for the catacomb project. This project helps ensure 
 
 Thank You
 
-[seashells](./seashell/sea-catacomb.jpeg)
+![seashells](./seashell/sea-catacomb.jpeg)
